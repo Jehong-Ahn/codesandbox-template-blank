@@ -1,0 +1,5 @@
+tasks:
+  - command: |
+      npm i -g meteor
+      . ~/.bash_profile
+      meteor
