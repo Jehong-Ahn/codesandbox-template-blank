@@ -1,6 +1,3 @@
 tasks:
   - init: ls
-    command: |
-      npm i -g meteor
-      . ~/.bash_profile
-      meteor
+    command: ll
