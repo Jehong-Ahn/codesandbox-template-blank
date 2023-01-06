@@ -2,3 +2,6 @@ tasks:
   - init: |
       npm install tmp
       date
+github:
+  prebuilds:
+    branches: true
