@@ -1,2 +1,4 @@
 tasks:
-  - init: npm install tmp
+  - init: |
+      npm install tmp
+      date
